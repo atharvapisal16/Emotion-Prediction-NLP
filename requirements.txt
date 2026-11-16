@@ -3,7 +3,7 @@ streamlit==1.55.0
 plotly==6.6.0
 
 # Machine Learning & NLP Inference
-scikit-learn==1.6.1
+scikit-learn
 joblib==1.5.3
 nltk==3.10.3
 numpy==2.4.1
